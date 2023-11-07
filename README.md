@@ -65,3 +65,7 @@ obtained a master's degree in information technology from the Indian Institute o
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
+## Related Resource
+- [《CUDA-Programming编程》示例代码库](https://github.com/brucefan1983/CUDA-Programming)
+- [Documentation of pycuda](https://documen.tician.de/pycuda/)
